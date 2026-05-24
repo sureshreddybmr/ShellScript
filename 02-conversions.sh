@@ -1,6 +1,6 @@
 #!/bin/bash
-person1="Alice"
-person2="Bob"
+person1="suresh"
+person2="reddy"
 echo "$person1:Welcome to fevops"
 echo "$person2:Welcome to fevops"
 echo $person1:This is the conversions script"
